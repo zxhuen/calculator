@@ -1,0 +1,7 @@
+Z:\codes\calculator\My application = Calculator\My application = Calculator\bin\Debug\My application = Calculator.exe.config
+Z:\codes\calculator\My application = Calculator\My application = Calculator\bin\Debug\My application = Calculator.exe
+Z:\codes\calculator\My application = Calculator\My application = Calculator\bin\Debug\My application = Calculator.pdb
+Z:\codes\calculator\My application = Calculator\My application = Calculator\obj\Debug\My application = Calculator.csproj.AssemblyReference.cache
+Z:\codes\calculator\My application = Calculator\My application = Calculator\obj\Debug\My application = Calculator.csproj.CoreCompileInputs.cache
+Z:\codes\calculator\My application = Calculator\My application = Calculator\obj\Debug\My application = Calculator.exe
+Z:\codes\calculator\My application = Calculator\My application = Calculator\obj\Debug\My application = Calculator.pdb
